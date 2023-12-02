@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Day_1\Star1.cs" />
+    <Compile Include="Day_2\Cube_Conundrum.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -44,6 +45,8 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="files\Cube_Conundrum.txt" />
+    <Content Include="files\Cube_Conundrum_Results.txt" />
     <Content Include="files\Trebuchet_Calibration.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
