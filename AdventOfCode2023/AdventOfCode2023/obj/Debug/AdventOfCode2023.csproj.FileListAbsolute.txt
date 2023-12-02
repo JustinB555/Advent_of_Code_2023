@@ -1,8 +1,0 @@
-C:\Github\Advent_of_Code_2023\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.csproj.AssemblyReference.cache
-C:\Github\Advent_of_Code_2023\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.csproj.SuggestedBindingRedirects.cache
-C:\Github\Advent_of_Code_2023\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.csproj.CoreCompileInputs.cache
-C:\Github\Advent_of_Code_2023\AdventOfCode2023\AdventOfCode2023\bin\Debug\AdventOfCode2023.exe.config
-C:\Github\Advent_of_Code_2023\AdventOfCode2023\AdventOfCode2023\bin\Debug\AdventOfCode2023.exe
-C:\Github\Advent_of_Code_2023\AdventOfCode2023\AdventOfCode2023\bin\Debug\AdventOfCode2023.pdb
-C:\Github\Advent_of_Code_2023\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.exe
-C:\Github\Advent_of_Code_2023\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.pdb
