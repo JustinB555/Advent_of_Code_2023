@@ -139,3 +139,5 @@ _NCrunch*
 *.cache
 *.pdb
 AdventOfCode2023/.vs/AdventOfCode2023/v17/.suo
+*.vsidx
+*.vsidx
